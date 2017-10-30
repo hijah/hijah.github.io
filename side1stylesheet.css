@@ -1,0 +1,76 @@
+html{background-color: lavender}
+h1{
+    color: gold;
+    margin-left: 30%;
+    font-size: 500%;
+    margin-top: 0%;
+}
+img{
+    width: 500px;
+    height: 500px;
+    margin-left: 0%;
+    position: fixed;
+}
+p{
+    font-size: 250%;
+    position: fixed;
+    top: 150px;
+    left: 550px;
+}
+.first{
+    font-size: 200%;
+    position: fixed;
+    top: 350px;
+    left: 550px;
+}
+.last{
+    font-size: 200%;
+    position: fixed;
+    top: 450px;
+    left: 550px;
+}
+.email{
+    font-size: 200%;
+    position: fixed;
+    top: 350px;
+    left: 750px;
+}
+.country{
+    font-size: 200%;
+    position: fixed;
+    top: 450px;
+    left: 750px;
+}
+.address{
+    font-size: 200%;
+    position: fixed;
+    top: 350px;
+    left: 950px;
+}
+.postalcode{
+    font-size: 200%;
+    position: fixed;
+    top: 450px;
+    left: 950px;
+}
+.phonenumber{
+    font-size: 200%;
+    position: fixed;
+    top: 550px;
+    left: 550px;
+}
+.submit{
+    position: fixed;
+    top: 650px;
+    left: 550px;
+    width: 500px;
+}
+
+input, label {
+    display: block;
+}
+
+input{
+    font-size: 25px;
+}
+
