@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
     <title>Tilykke</title>
@@ -7,7 +6,7 @@
 </head>
 <body>
 <h1>
-    Tak for din information, vi vil nu sælge den videre til de mange forskellige marketing firmaer.
+    Tak for din information <?php echo $_POST["firstname"]; ?> vi vil nu sælge den videre til de mange forskellige marketing firmaer.
 </h1>
 <img src="thumbup.jpg">
 
